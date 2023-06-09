@@ -25,6 +25,6 @@ sudo adduser xrdp ssl-cert
 echo xfce4-session >~/.xsession
 sudo service xrdp restart
 
-sudo echo "Updating system..."
-sudo apt-get update -y
-sudo apt-get upgrade -y
+#sudo echo "Updating system..."
+#sudo apt-get update -y
+#sudo apt-get upgrade -y
